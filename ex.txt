@@ -1,1 +1,1 @@
-example file
+This is example file
